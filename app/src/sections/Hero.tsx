@@ -167,11 +167,14 @@ const Hero = () => {
           className="relative w-32 h-32 sm:w-40 sm:h-40 lg:w-48 lg:h-48 mx-auto mb-8"
         >
           <div className="absolute inset-0 rounded-full bg-gradient-to-r from-[#d0ff59] to-[#a8e063] opacity-50 blur-xl animate-pulse" />
-          <img
-            src="/profile.jpg"
-            alt="Anurish Gangrade"
-            className="relative w-full h-full rounded-full object-cover border-2 border-[#d0ff59]/30"
-          />
+       <img
+  src="/profile.jpg"
+  alt="Anurish Gangrade"
+  className="relative w-full h-full rounded-full object-cover object-center border-2 border-[#d0ff59]/30"
+  style={{ objectPosition: "center 30%" }}
+/>
+
+
         </div>
 
         {/* Name */}
