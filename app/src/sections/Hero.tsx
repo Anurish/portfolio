@@ -171,7 +171,7 @@ const Hero = () => {
   src="/profile.jpg"
   alt="Anurish Gangrade"
   className="relative w-full h-full rounded-full object-cover object-center border-2 border-[#d0ff59]/30"
-  style={{ objectPosition: "center 50%" }}
+  style={{ objectPosition: "center 30%" }}
 />
 
 
