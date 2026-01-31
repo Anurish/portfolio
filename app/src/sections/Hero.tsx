@@ -196,9 +196,9 @@ const Hero = () => {
 
         {/* Contact Info */}
         <div className="flex flex-wrap justify-center gap-4 sm:gap-6 mt-8 text-sm text-gray-400">
-          <a href="mailto:anurish@gmail.com" className="flex items-center gap-2 hover:text-[#d0ff59] transition-colors">
+          <a href="mailto:85anurish@gmail.com" className="flex items-center gap-2 hover:text-[#d0ff59] transition-colors">
             <Mail className="w-4 h-4" />
-            <span>anurish@gmail.com</span>
+            <span>85anurish@gmail.com</span>
           </a>
           <a href="tel:+918875759505" className="flex items-center gap-2 hover:text-[#d0ff59] transition-colors">
             <Phone className="w-4 h-4" />
